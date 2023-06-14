@@ -12,9 +12,11 @@ Foi elaborado o modelo conceitual, ilustrado no Diagrama Entidade-Relacionamento
 
 ![image](https://github.com/miguelfbianchi/SQL/assets/95723435/29732844-6383-4916-87b6-0b89fccdd06a)
 
+
 Modelo lógico com plano de tabelas:
 
 ![image](https://github.com/miguelfbianchi/SQL/assets/95723435/9152d87c-9751-427e-bb63-4a5ce58cf771)
+
 
 Modelo físico com diagrama gerado pelo MySQL
 
