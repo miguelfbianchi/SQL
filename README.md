@@ -8,6 +8,11 @@ O objetivo é gerenciar o uso de Recursos em projetos de empresas prestadoras de
 
 O objetivo principal é ter um controle informatizado do tempo empregado em cada tarefa e projeto por cada pessoa da organização, assim como dos recursos físicos, de modo a poder obter de maneira ágil informações relevantes sobre o andamento dos projetos correntes, obter melhor previsões de custos para projetos futuros e gerir os recursos humanos.
 
+- Projest_Documentacao.pdf - Documentação completa do projeto
+- Projest_definicao.sql - Código da definição, e inserção/manipulação dos registros no banco de dados
+- Projest_analise.sql - Código com as consultas que extraem informações úteis dos dados
+
+
 Foi elaborado o modelo conceitual, ilustrado no Diagrama Entidade-Relacionamento:
 
 ![image](https://github.com/miguelfbianchi/SQL/assets/95723435/29732844-6383-4916-87b6-0b89fccdd06a)
@@ -21,5 +26,3 @@ Modelo lógico com plano de tabelas:
 Modelo físico com diagrama gerado pelo MySQL
 
 ![image](https://github.com/miguelfbianchi/SQL/assets/95723435/ef8ae416-7459-41b1-b2ff-e951db66c33f)
-
-A documentação completa pode ser acessada no arquivo correspondente.
