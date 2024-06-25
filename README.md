@@ -1,6 +1,6 @@
 # SQL
 
-Projeto Final do Curso de SQL da Mentorama.
+Projeto Final do Curso de SQL.
 
 Trata da conceituação, estruturação e implementação de um banco de dados com o tema de um Sistema de Gestão de Projetos intitulado Projest.
 
